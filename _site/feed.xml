@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Si14 blog</title>
+    <description>blog</description>
+    <link>http://localhost:4000/si14/</link>
+    <atom:link href="http://localhost:4000/si14/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 21 May 2020 13:44:08 -0700</pubDate>
+    <lastBuildDate>Thu, 21 May 2020 13:44:08 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Si14 Kick Extractor Ableton Rack.</title>
+        <description>&lt;h4 id=&quot;extract-any-kick-you-want-from-your-favorite-track-using-this-ableton-rack&quot;&gt;Extract any kick you want from your favorite track using this ableton rack&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://s13.picofile.com/file/8397869384/Si14_bKickExtractor.rar.html&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 May 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/Si14-Kick-Extractor-Ableton-Rack/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/Si14-Kick-Extractor-Ableton-Rack/</guid>
+        
+        <category>ableton</category>
+        
+        <category>sampleextractor</category>
+        
+        <category>rack</category>
+        
+        <category>Plugin</category>
+        
+        <category>Free</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>s(M)exoscope AN OSCILLOSCOPE VST PLUGIN.</title>
+        <description>&lt;h4 id=&quot;features&quot;&gt;Features:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Available as a Standard insert effect or as a special Modular version optimized especially for modular VST hosts like Plogue Bidule or AudioMulch.&lt;/li&gt;
+  &lt;li&gt;Display controls - Time (number of pixels per sample) &amp;amp; Amp (amplitude of the waveform in the display).&lt;/li&gt;
+  &lt;li&gt;Retrigger modes - Free, Internal, Rising &amp;amp; Falling - with Retrigger Threshold. External mode also available in the modular version.&lt;/li&gt;
+  &lt;li&gt;Options - Sync Redraw, Freeze, DC-Kill &amp;amp; Channel.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The s(M)exoscope also contains a tool that can be used to analyze the waveform currently in the display. Based on where you place a marker, the tool analyzes the x and y dimensions of the waveform to calculate the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Selection amplitude (linear).&lt;/li&gt;
+  &lt;li&gt;Selection amplitude (decibels).&lt;/li&gt;
+  &lt;li&gt;Selection length (in samples).&lt;/li&gt;
+  &lt;li&gt;Selection length (in seconds).&lt;/li&gt;
+  &lt;li&gt;Selection length (in milliseconds).&lt;/li&gt;
+  &lt;li&gt;Selection frequency (assuming that the selection is one cycle in length).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;more-info--main-website&quot;&gt;More Info : &lt;a href=&quot;http://bram.smartelectronix.com/plugins.php?id=4&quot;&gt;Main Website&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
+&lt;h4 id=&quot;windows&quot;&gt;&lt;a href=&quot;http://www.smartelectronix.com/refer.php?url=~bram/files/s(m)exosope_20040403.zip&quot;&gt;Windows&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;mac-osx&quot;&gt;&lt;a href=&quot;http://www.smartelectronix.com/refer.php?url=~bram/files/s(m)exoscope_20031203_mac_OSX_VST.sit&quot;&gt;Mac OSX&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;mac-osx-audio-unit-version&quot;&gt;&lt;a href=&quot;http://www.smartelectronix.com/refer.php?url=~bram/adrian/s(M)exoscope_au.dmg.gz&quot;&gt;Mac OSX Audio Unit Version&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Sun, 26 Apr 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/s(M)exoscope-an-oscilloscope-VST-plugin/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/s(M)exoscope-an-oscilloscope-VST-plugin/</guid>
+        
+        <category>Oscilloscope</category>
+        
+        <category>Vst</category>
+        
+        <category>AU</category>
+        
+        <category>Plugin</category>
+        
+        <category>Free</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>TAL-FILTER-2 IS A FREE HOST SYNCED FILTER MODULE WITH DIFFERENT FILTER TYPES, PANORAMA AND VOLUME MODULATION POSSIBILITIES.</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;The device includes all 4x oversampled TAL-NoiseMaker filters: LP 24 dB, LP 18dB, LP 12dB, LP 6dB, HP 12 dB, BP 12dB, N 12 dB. Its possible to saturate / distort the input signal by raising the input volume with the input control (only if you use a filter as modulation type).
+Its also possible to modulate the panorama or volume of an incoming signal. This can be used for tremolo or trance gate effects. Panorama modulation maybe is useful to pan your percussion, hats or sound effects in the stereo room for more interesting rythms and sounds.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&quot;more-info--main-website&quot;&gt;More Info : &lt;a href=&quot;https://tal-software.com/products/tal-filter&quot;&gt;Main Website&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h2 id=&quot;downloads-v-250&quot;&gt;Downloads v 2.5.0&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;windows&quot;&gt;&lt;a href=&quot;https://tal-software.com//downloads/plugins/install_TAL-Filter-2.zip&quot;&gt;Windows&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;osx&quot;&gt;&lt;a href=&quot;https://tal-software.com//downloads/plugins/TAL-Filter-2-installer.pkg&quot;&gt;OSX&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;vst3-presets&quot;&gt;&lt;a href=&quot;https://tal-software.com//downloads/presets/TAL-Filter-2%20vst3.zip&quot;&gt;VST3 Presets&lt;/a&gt;&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 26 Apr 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/TAL-Filter-2-Host-Synced-Filter-Module/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/TAL-Filter-2-Host-Synced-Filter-Module/</guid>
+        
+        <category>Module</category>
+        
+        <category>Filter</category>
+        
+        <category>Motion</category>
+        
+        <category>Modern</category>
+        
+        <category>Tal</category>
+        
+        <category>Free</category>
+        
+        <category>Modulation</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>SONIMUS SONEQ FREE 3 BAND VINTAGE STYLE EQUALIZER PLUGIN.</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;SonEQ is free equalizer plugin that takes parts from some vintage gear and combine them in one. SonEQ has 3 bands, bass, middle and treble. Also, SonEQ has a pre-amp section. SonEQ is a free VST/AU/AAX plugin for Mac and Windows.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 band Equalizer, Low, Mid, High.&lt;/li&gt;
+  &lt;li&gt;2 Musical Filters, High-Pass Low-Pass.&lt;/li&gt;
+  &lt;li&gt;Preamp stage with bass booster.&lt;/li&gt;
+  &lt;li&gt;64-bit floating point precision.&lt;/li&gt;
+  &lt;li&gt;Up to 192kHz sample rates supported&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;supported-platforms&quot;&gt;SUPPORTED PLATFORMS&lt;/h3&gt;
+&lt;h5 id=&quot;audio-unit-vst-24-vst-3-aax-rtas-all-platforms-support-both-32-and-64-bit-operation&quot;&gt;Audio Unit, VST 2.4, VST 3, AAX, RTAS. All platforms support both 32 and 64 bit operation.&lt;/h5&gt;
+
+&lt;h3 id=&quot;supported-operating-systems&quot;&gt;SUPPORTED OPERATING SYSTEMS&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mac OSX 10.6 or newer&lt;/li&gt;
+  &lt;li&gt;Windows XP or newer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;technical-specifications&quot;&gt;TECHNICAL SPECIFICATIONS&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sample Rate Support: up to 192 khz.&lt;/li&gt;
+  &lt;li&gt;Bit Depth: 64 bits (floating point).&lt;/li&gt;
+  &lt;li&gt;Channels: Mono and Stereo.&lt;/li&gt;
+  &lt;li&gt;Latency: Zero.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;for-more-info--free-download--main-website&quot;&gt;For More Info &amp;amp; Free Download : &lt;a href=&quot;https://sonimus.com/products/soneq&quot;&gt;Main Website&lt;/a&gt;&lt;/h5&gt;
+</description>
+        <pubDate>Sun, 26 Apr 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/SONEQ-free-3-band-vintage-equalizer-plugin/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/SONEQ-free-3-band-vintage-equalizer-plugin/</guid>
+        
+        <category>SONEQ</category>
+        
+        <category>3Band</category>
+        
+        <category>Eq</category>
+        
+        <category>Equalizer</category>
+        
+        <category>Free</category>
+        
+        <category>Vst</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>ML SOUND LAB RELEASED A FREE AMP SIM CALLED AMPED ROOTS</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Amped Roots Free is our first amp sim release and it comes with a free amp. We want everyone to experience our amp modeling quality and plug’n’play design. Just like with real amps you will not spend a lot of time tweaking.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;for-free-download-click-here&quot;&gt;FOR FREE DOWNLOAD &lt;a href=&quot;https://ml-sound-lab.com/products/amped-roots&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Compatible with:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Windows&lt;/li&gt;
+  &lt;li&gt;Mac&lt;/li&gt;
+  &lt;li&gt;Standalone&lt;/li&gt;
+  &lt;li&gt;VST3 Plugin&lt;/li&gt;
+  &lt;li&gt;AU Plugin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;more-amps-immediately&quot;&gt;MORE AMPS IMMEDIATELY&lt;/h4&gt;
+
+&lt;p&gt;Amped Roots Free comes with one amp: “5034 Fluff” however to get three more amps: “5151 Fluff”, “Freeman Fluff” and “Mega Fluff” you need to purchase Amped Roots Full License. Amp descriptions by Fluff:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;5034 Fluff (Free)&lt;/td&gt;
+          &lt;td&gt;Modern metal chugs. No overdrive needed.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;5151 Fluff&lt;/td&gt;
+          &lt;td&gt;The 1992 legend. You know the sound.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Freeman Fluff&lt;/td&gt;
+          &lt;td&gt;Tune low, chug slow. Whats that smell?&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Mega Fluff&lt;/td&gt;
+          &lt;td&gt;The early 90’s monster that birthed Nu Metal.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;No goatee required.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/si14/img/Roots1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;for-more-info-about-&quot;&gt;FOR MORE INFO ABOUT :&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;FLUFF’S PERSONAL CAB&lt;/li&gt;
+  &lt;li&gt;PEDALBOARD&lt;/li&gt;
+  &lt;li&gt;IR LOADER&lt;/li&gt;
+  &lt;li&gt;SOUND SAMPLES&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;and-free-download-click-here&quot;&gt;AND FREE DOWNLOAD &lt;a href=&quot;https://ml-sound-lab.com/products/amped-roots&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Fri, 03 Apr 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/AmpedRootsFree/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/AmpedRootsFree/</guid>
+        
+        <category>Ampsim</category>
+        
+        <category>Free</category>
+        
+        <category>Mlsoundlab</category>
+        
+        <category>Simulator</category>
+        
+        <category>GuitarAmp</category>
+        
+        <category>Plugin</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>TRACKTION CORPORATION HAS RELEASED WAVEFORM FREE</title>
+        <description>&lt;h3 id=&quot;waveform-free-is-a-professional-digital-audio-workstation-with-linux-support&quot;&gt;Waveform Free is a Professional Digital Audio Workstation with Linux Support&lt;/h3&gt;
+
+&lt;p&gt;If you’re a Raspberry Pi Guy like us and you’ve always been looking For a Good Looking and professional Digital Audio Workstation for your Single Board Or Linux Computer then you’ve no doubt heard about Tracktion T7 which is considered one of the best free digital audio workstations (DAWs) around.&lt;/p&gt;
+
+&lt;p&gt;But that’s changing. A new, free replacement for the Traction T7 DAW has been announced, and it looks mighty impressive!&lt;/p&gt;
+
+&lt;h4 id=&quot;take-your-ideas-to-the-professional-level&quot;&gt;TAKE YOUR IDEAS TO THE PROFESSIONAL LEVEL&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Waveform Free is unlike any other so called Free DAW – we fully acknowledge it has more capabilities than most enthusiast producers will ever need. There are no restrictions whatsoever – unlimited track count, add popular plugins and enjoy the deeply capable feature set. Once addicted we have a perfect selection of deep dive tools available in Waveform Pro to take you to the next level.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;for-free-download-and-getting-started-click-here&quot;&gt;FOR FREE DOWNLOAD AND GETTING STARTED &lt;a href=&quot;https://www.tracktion.com/products/waveform-free&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Tracktion’s  Waveform Free is perfect for making and sharing music for anyone stuck at home, self-isolating.&lt;/p&gt;
+
+&lt;p&gt;The new DAW is suitable for all three major desktop operation systems; Windows, OSX and Linux as well as the revolutionary Raspberry Pi. It is fully compatible with the new generation of expressive instruments and also supports MPE. Waveform Free includes many of Tracktion’s recent popular innovations including; the MIDI Pattern Generator to create synchronized melodies, chord progressions, bass lines and more, the powerful 40SC Virtual Synthesizer and Micro Drum Sampler.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/si14/img/Waveform.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Most importantly, the app can load third-party VST plugins, meaning that you’ll have access to an almost unlimited amount of virtual instruments and effects. Also, the DAW comes with its own set of native effects and a couple of virtual instruments.&lt;/p&gt;
+
+&lt;h4 id=&quot;4osc&quot;&gt;4OSC&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;4OSC is a powerful yet simple to navigate subtractive synthesiser. It’s clean UI and small CPU footprint make it a great alternative to Subtractive for less complex sound design tasks. As the name suggests 4OSC offers 4 oscillators, flexible modulation, MPE compatibility and a range of onboard filters and FX.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;micro-drum-sampler&quot;&gt;MICRO DRUM SAMPLER&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Waveform’s new drum sampler is a fast and easy way to quickly create your own drum kits and start programming. Utilizing simple drag and drop for audio files, MIDI learn for rapid assignment to external controllers, and a ton of great editing features commonly used for drum production, the Drum Sampler is you new powerhouse for create beats. Intelligent integration with our popular MIDI Step Clips allow you to seamlessly move into arrangements. It’s as easy as sample, play, create.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;plugin-sandboxing&quot;&gt;PLUGIN SANDBOXING&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;3rd party plugins are the weak link for any digital audio workstation. Waveform Free addresses this by implementing plugin sandboxing. Once activated your work environment is protected by keeping plugin crashes contained. Instead of the host closing, the plugin is simply deactivated.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;for-tutorial-videos-click-here&quot;&gt;For Tutorial Videos &lt;a href=&quot;https://news.armarketing.co.uk/C5209A40B0E1546DA65E93E99D347FFEC94FD3F132DDBBE9D377153C1D9B3301/59CEAF3B2AD52C18C76862A304D37185/LE35?ii=true&quot;&gt;Click Here&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h3 id=&quot;for-free-download-and-getting-started-click-here-1&quot;&gt;FOR FREE DOWNLOAD AND GETTING STARTED &lt;a href=&quot;https://www.tracktion.com/products/waveform-free&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/Waveform-Free/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/Waveform-Free/</guid>
+        
+        <category>Waveform</category>
+        
+        <category>Free</category>
+        
+        <category>Tracktion</category>
+        
+        <category>Daw</category>
+        
+        <category>90Days</category>
+        
+        <category>Coronavirus</category>
+        
+        <category>Win</category>
+        
+        <category>Mac</category>
+        
+        <category>Linux</category>
+        
+        <category>Raspberrypi</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>USE ABLETON LIVE 10 SUITE FREE For 90 DAYS</title>
+        <description>&lt;h5 id=&quot;ableton-lets-you-use-live-10-suite-for-90-days-completely-free&quot;&gt;Ableton LETS YOU USE Live 10 Suite FOR 90 DAYS Completely Free&lt;/h5&gt;
+&lt;h6 id=&quot;get-all-the-features-of-live-10-suite-free-for-90-days&quot;&gt;Get all the features of Live 10 Suite free for 90 days&lt;/h6&gt;
+
+&lt;h5 id=&quot;get-started--download-for-free-here&quot;&gt;GET STARTED &amp;amp; DOWNLOAD FOR FREE &lt;a href=&quot;https://www.ableton.com/en/trial/&quot;&gt;HERE&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h4 id=&quot;what-is-ableton-live&quot;&gt;What is Ableton Live?&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ableton Live lets you easily create, produce and perform music within one intuitive interface. Live keeps everything in sync and works in real-time, so you can play and modify your musical ideas without interrupting the creative flow.
+Live comes with a versatile collection of instruments, sounds, kits and loops for creating any kind of music and provides a full complement of effects to tweak and process your sound.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The free trial period typically runs 30 days, but with the current coronavirus (COVID-19) quarantine there’s no better time to social distance yourself with your DAW (digital audio workstation).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/si14/img/Abletonlivefree.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ableton-live-10-suite-includes&quot;&gt;Ableton Live 10 Suite includes:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ableton Live&lt;/li&gt;
+  &lt;li&gt;13 Instruments to try (including Wavetable, Operator, Sampler, Analog and more)&lt;/li&gt;
+  &lt;li&gt;56 Effects for processing audio and MIDI (including Echo, Pedal, Beat Repeat, Amp, Vocoder, Glue and lots more)&lt;/li&gt;
+  &lt;li&gt;Instant mappings so you can use Live with your keyboards or controller.&lt;/li&gt;
+  &lt;li&gt;Max for Live so you have access to a range of instruments, effects and customizations created by the Live community.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;if-youre-currently-working-in-live-9-you-can-still-sign-up-for-the-90-day-trial-and-your-library-will-not-be-overwritten-or-altered&quot;&gt;If you’re currently working in Live 9, you can still sign up for the 90 day trial and your library will not be overwritten or altered.&lt;/h5&gt;
+
+&lt;h4 id=&quot;get-started--download-for-free-here-1&quot;&gt;GET STARTED &amp;amp; DOWNLOAD FOR FREE &lt;a href=&quot;https://www.ableton.com/en/trial/&quot;&gt;HERE&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Mon, 30 Mar 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/Ableton-Live-Free-90-Days/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/Ableton-Live-Free-90-Days/</guid>
+        
+        <category>Ableton</category>
+        
+        <category>Live</category>
+        
+        <category>Freetrail</category>
+        
+        <category>Daw</category>
+        
+        <category>90Days</category>
+        
+        <category>Coronavirus</category>
+        
+        <category>Suite</category>
+        
+        <category>Free</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>APPLE LETS YOU USE LOGIC PRO X FREE FOR 90 DAYS</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;The popular music making software is now free on the App Store for 90 Days.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;click-here-to-download-logic-pro-x-for-free&quot;&gt;&lt;a href=&quot;http://updates-http.cdn-apple.com/2020/macos/061-91615-20200326-7bf76b54-681e-4abb-94f6-d9db3ec445bc/LogicProXTrial.dmg&quot;&gt;Click Here To Download Logic Pro X For Free&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Logic Pro is a digital audio workstation and MIDI sequencer software application for the macOS platform. It was originally created in the early 1990s as Notator Logic, or Logic, by German software developer C-Lab which later went by Emagic.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Apple has confirmed that, in light of current events, it’s offering free 90-day access to its Logic Pro X Daw and Final Cut Pro X video editing application so that everyone can make music and edit videos for Free.&lt;/p&gt;
+
+&lt;h6 id=&quot;this-is-the-first-time-a-free-trial-of-logic-pro-x-has-been-available-though-apple-say&quot;&gt;This is the first time a free trial of Logic Pro X has been available, though Apple say&lt;/h6&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;once the 90 days are up, there’ll be an ongoing 30-day free trial thereafter.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;click-here-to-download-logic-pro-x-for-free-1&quot;&gt;&lt;a href=&quot;http://updates-http.cdn-apple.com/2020/macos/061-91615-20200326-7bf76b54-681e-4abb-94f6-d9db3ec445bc/LogicProXTrial.dmg&quot;&gt;Click Here To Download Logic Pro X For Free&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/Logic-Pro-X-Free-90-Days/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/Logic-Pro-X-Free-90-Days/</guid>
+        
+        <category>CORONAVIRUS</category>
+        
+        <category>Logicprox</category>
+        
+        <category>Free</category>
+        
+        <category>90Days</category>
+        
+        <category>Apple</category>
+        
+        <category>Freetrail</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>AUDIOMODERN RELEASED A FREE MODERN MOTION FILTER PLUGIN THAT PROVIDES A GREAT DEAL OF POTENTIAL FOR ALL KINDS OF THE INTRICATE RHYTHMIC MOVEMENT CALLED FILTERSTEP</title>
+        <description>&lt;p&gt;Despite the coronavirus outbreak troubles, Audiomodern are continuing to create useful audio plugins for musicians and producers.&lt;/p&gt;
+
+&lt;p&gt;Recently They’ve Released a Motion Free Plugin Called Filterstep.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It can give you incredibly complex and nuanced results based on various filter effect settings, and almost infinite possibilities for sonic exploration and movement randomization.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;click-here-for-free-download&quot;&gt;&lt;a href=&quot;https://audiomodern.com/shop/plugins/filterstep?utm_source=Audiomodern+Press&amp;amp;utm_campaign=ac3e770089-EMAIL_CAMPAIGN_2020_03_26_11_39&amp;amp;utm_medium=email&amp;amp;utm_term=0_2e6b6399fe-ac3e770089-227690239&amp;amp;mc_cid=ac3e770089&amp;amp;mc_eid=e067a64458&quot;&gt;Click Here For Free Download&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;its-available-as-vstau--ios-app&quot;&gt;It’s available as VST/AU &amp;amp; iOS App&lt;/h3&gt;
+
+&lt;h1 id=&quot;features&quot;&gt;Features&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;VST/VST3/AU/AAX/iOS &amp;amp; Standalone&lt;/li&gt;
+  &lt;li&gt;Generate Filter Grooves in real-time&lt;/li&gt;
+  &lt;li&gt;Syncs to Host tempo&lt;/li&gt;
+  &lt;li&gt;Wet/Dry mix control&lt;/li&gt;
+  &lt;li&gt;MIDI Controllable&lt;/li&gt;
+  &lt;li&gt;Infinity Mode&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quick Load presets&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;x64 &amp;amp; x32 bit Compatible&lt;/li&gt;
+  &lt;li&gt;Instant/Tap Bypass for live performance&lt;/li&gt;
+  &lt;li&gt;Quantization settings&lt;/li&gt;
+  &lt;li&gt;Motion selector&lt;/li&gt;
+  &lt;li&gt;Customizable Sequence Range&lt;/li&gt;
+  &lt;li&gt;Assign Presets to Quick-Load Section&lt;/li&gt;
+  &lt;li&gt;No Two Patterns will Ever be the Same&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;check-out-their-official-video-about-this-free-product&quot;&gt;Check out their Official Video about this Free Product&lt;/h1&gt;
+
+&lt;iframe width=&quot;1269&quot; height=&quot;714&quot; src=&quot;https://www.youtube.com/embed/8Eq2phcRVV4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;requirements&quot;&gt;Requirements&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mac OS X 10.12 or higher&lt;/li&gt;
+  &lt;li&gt;Windows 7 or higher&lt;/li&gt;
+  &lt;li&gt;At least 50 MB of free drive space&lt;/li&gt;
+  &lt;li&gt;Reliable internet connection for download delivery and product activation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;click-here-for-free-download-1&quot;&gt;&lt;a href=&quot;https://audiomodern.com/shop/plugins/filterstep?utm_source=Audiomodern+Press&amp;amp;utm_campaign=ac3e770089-EMAIL_CAMPAIGN_2020_03_26_11_39&amp;amp;utm_medium=email&amp;amp;utm_term=0_2e6b6399fe-ac3e770089-227690239&amp;amp;mc_cid=ac3e770089&amp;amp;mc_eid=e067a64458&quot;&gt;Click Here For Free Download&lt;/a&gt;&lt;/h1&gt;
+</description>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/AudioModern-Free-Motion-Filter-Filterstep/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/AudioModern-Free-Motion-Filter-Filterstep/</guid>
+        
+        <category>CORONAVIRUS</category>
+        
+        <category>Filter</category>
+        
+        <category>Motion</category>
+        
+        <category>Modern</category>
+        
+        <category>Filterstep</category>
+        
+        <category>Free</category>
+        
+        <category>Modulation</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>NATIVE INSTRUMENTS GIVES AWAY ANALOGE DREAMS SOFT SYNTH FOR FREE (until March 31st) </title>
+        <description>&lt;h3 id=&quot;native-instruments-has-announced-that-it-is-offering-the-analog-dreams-for-free-until-march-31st&quot;&gt;Native Instruments has announced that it is offering the &lt;a href=&quot;https://www.native-instruments.com/en/products/komplete/play-series/analog-dreams/?sscid=31k4_ighpw&quot;&gt;Analog Dreams&lt;/a&gt;, for free until March 31st.&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Today, measures to control the COVID-19 pandemic are forcing much of the world into an unprecedented period of restriction, isolation, and uncertainty – with the music community hit particularly hard. Native Instruments wants to support the community through this time, and help people at home to be creative.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Analog sounds from vintage synths of the ’70s, ’80s, and beyond&lt;/li&gt;
+  &lt;li&gt;Blended samples creatively processed to generate unique results&lt;/li&gt;
+  &lt;li&gt;Ready-to-go presets in a streamlined interface&lt;/li&gt;
+  &lt;li&gt;Part of the &lt;a href=&quot;https://www.native-instruments.com/en/catalog/komplete/play-series/&quot;&gt;Play Series&lt;/a&gt;: Great-sounding presets and real-time control in an intuitive interface&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;this comes with more than 100 tweakable presets ranging from thick basses to dreamy pads, and usually retails for $49. It’s free until 31 March.&lt;/p&gt;
+
+&lt;h2 id=&quot;download-it-here&quot;&gt;&lt;a href=&quot;https://www.native-instruments.com/en/products/komplete/play-series/analog-dreams/?sscid=31k4_ighpw&quot;&gt;DOWNLOAD IT HERE&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;in-a-statement-ni-executives-daniel-haver-and-mate-galic-said&quot;&gt;In a statement, NI executives Daniel Haver and Mate Galic said:&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“These are challenging times for the global music community. 
+“Cancellations, closures, and city lockdowns have hit artists and DJs particularly hard, with many people facing long periods of isolation. We are looking at ways we can support, and we encourage you to make the most of this time to connect with each other, learn new skills, and explore new sounds.
+“That’s why we’re making Analog Dreams free until the end of March: A small gift to keep you inspired during all the extra home studio time. 
+“Stay safe, look out for each other, and keep on creating.”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 25 Mar 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/Free-NI-ANALOG-DREAMS-SOFT-SYNTH/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/Free-NI-ANALOG-DREAMS-SOFT-SYNTH/</guid>
+        
+        <category>Analogue</category>
+        
+        <category>Dreams</category>
+        
+        <category>NI</category>
+        
+        <category>Nativeinstruments</category>
+        
+        <category>Analogdreams</category>
+        
+        <category>Softsynth</category>
+        
+        <category>Coronavirus</category>
+        
+        <category>Free</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
