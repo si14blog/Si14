@@ -5,9 +5,52 @@
     <description>blog</description>
     <link>http://localhost:4000/si14/</link>
     <atom:link href="http://localhost:4000/si14/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jun 2020 12:51:26 -0700</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2020 12:51:26 -0700</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2020 06:14:17 -0700</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2020 06:14:17 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>SampleScience Cassette Roads</title>
+        <description>&lt;p&gt;Cassette Roads is the beautiful sound of an electric piano recorded on cassette. It’s the perfect plugin to create lofi beats to study to, or even better, lofi vaporwave lullabies.&lt;/p&gt;
+
+&lt;p&gt;Best of all, Cassette Roads is available free of charge!&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/847777363&amp;amp;color=7e297f&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/samplesciencemtl&quot; title=&quot;SampleScienceMTL&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;SampleScienceMTL&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/samplesciencemtl/cassette-roads-audio-demo&quot; title=&quot;Cassette Roads Audio Demo&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Cassette Roads Audio Demo&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;h3 id=&quot;features&quot;&gt;Features:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;65.8 MB of samples (16-bit, 44.1kHz stereo Wav files)&lt;/li&gt;
+  &lt;li&gt;Multi-LFO&lt;/li&gt;
+  &lt;li&gt;Room reverb&lt;/li&gt;
+  &lt;li&gt;Highpass/Lowpass filter&lt;/li&gt;
+  &lt;li&gt;Amplitude range controls&lt;/li&gt;
+  &lt;li&gt;3 voice modes: polyphonic, monophonic, and legato&lt;/li&gt;
+  &lt;li&gt;Available as a VST/VST3/AU plugin for Windows and macOS (High Sierra and Mojave, macOS Catalina via the Maize Sample Player)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;h4 id=&quot;download-from-official-webpage&quot;&gt;&lt;a href=&quot;https://www.samplescience.ca/p/cassette-roads-download-page.html&quot;&gt;Download From Official Webpage&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Tue, 30 Jun 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/SampleScience-Cassette-Roads/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/SampleScience-Cassette-Roads/</guid>
+        
+        <category>Free</category>
+        
+        <category>plugin</category>
+        
+        <category>SampleScience</category>
+        
+        <category>Cassette Roads</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
     
       <item>
         <title>Valhalla Super Massive</title>
@@ -468,77 +511,6 @@ Live comes with a versatile collection of instruments, sounds, kits and loops fo
         <category>Apple</category>
         
         <category>Freetrail</category>
-        
-        
-        <category>Blog</category>
-        
-      </item>
-    
-      <item>
-        <title>AUDIOMODERN RELEASED A FREE MODERN MOTION FILTER PLUGIN THAT PROVIDES A GREAT DEAL OF POTENTIAL FOR ALL KINDS OF THE INTRICATE RHYTHMIC MOVEMENT CALLED FILTERSTEP</title>
-        <description>&lt;p&gt;Despite the coronavirus outbreak troubles, Audiomodern are continuing to create useful audio plugins for musicians and producers.&lt;/p&gt;
-
-&lt;p&gt;Recently They’ve Released a Motion Free Plugin Called Filterstep.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It can give you incredibly complex and nuanced results based on various filter effect settings, and almost infinite possibilities for sonic exploration and movement randomization.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;click-here-for-free-download&quot;&gt;&lt;a href=&quot;https://audiomodern.com/shop/plugins/filterstep?utm_source=Audiomodern+Press&amp;amp;utm_campaign=ac3e770089-EMAIL_CAMPAIGN_2020_03_26_11_39&amp;amp;utm_medium=email&amp;amp;utm_term=0_2e6b6399fe-ac3e770089-227690239&amp;amp;mc_cid=ac3e770089&amp;amp;mc_eid=e067a64458&quot;&gt;Click Here For Free Download&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h3 id=&quot;its-available-as-vstau--ios-app&quot;&gt;It’s available as VST/AU &amp;amp; iOS App&lt;/h3&gt;
-
-&lt;h1 id=&quot;features&quot;&gt;Features&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;VST/VST3/AU/AAX/iOS &amp;amp; Standalone&lt;/li&gt;
-  &lt;li&gt;Generate Filter Grooves in real-time&lt;/li&gt;
-  &lt;li&gt;Syncs to Host tempo&lt;/li&gt;
-  &lt;li&gt;Wet/Dry mix control&lt;/li&gt;
-  &lt;li&gt;MIDI Controllable&lt;/li&gt;
-  &lt;li&gt;Infinity Mode&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Quick Load presets&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;x64 &amp;amp; x32 bit Compatible&lt;/li&gt;
-  &lt;li&gt;Instant/Tap Bypass for live performance&lt;/li&gt;
-  &lt;li&gt;Quantization settings&lt;/li&gt;
-  &lt;li&gt;Motion selector&lt;/li&gt;
-  &lt;li&gt;Customizable Sequence Range&lt;/li&gt;
-  &lt;li&gt;Assign Presets to Quick-Load Section&lt;/li&gt;
-  &lt;li&gt;No Two Patterns will Ever be the Same&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;check-out-their-official-video-about-this-free-product&quot;&gt;Check out their Official Video about this Free Product&lt;/h1&gt;
-
-&lt;iframe width=&quot;1269&quot; height=&quot;714&quot; src=&quot;https://www.youtube.com/embed/8Eq2phcRVV4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h1 id=&quot;requirements&quot;&gt;Requirements&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mac OS X 10.12 or higher&lt;/li&gt;
-  &lt;li&gt;Windows 7 or higher&lt;/li&gt;
-  &lt;li&gt;At least 50 MB of free drive space&lt;/li&gt;
-  &lt;li&gt;Reliable internet connection for download delivery and product activation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;click-here-for-free-download-1&quot;&gt;&lt;a href=&quot;https://audiomodern.com/shop/plugins/filterstep?utm_source=Audiomodern+Press&amp;amp;utm_campaign=ac3e770089-EMAIL_CAMPAIGN_2020_03_26_11_39&amp;amp;utm_medium=email&amp;amp;utm_term=0_2e6b6399fe-ac3e770089-227690239&amp;amp;mc_cid=ac3e770089&amp;amp;mc_eid=e067a64458&quot;&gt;Click Here For Free Download&lt;/a&gt;&lt;/h1&gt;
-</description>
-        <pubDate>Sun, 29 Mar 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/si14/AudioModern-Free-Motion-Filter-Filterstep/</link>
-        <guid isPermaLink="true">http://localhost:4000/si14/AudioModern-Free-Motion-Filter-Filterstep/</guid>
-        
-        <category>CORONAVIRUS</category>
-        
-        <category>Filter</category>
-        
-        <category>Motion</category>
-        
-        <category>Modern</category>
-        
-        <category>Filterstep</category>
-        
-        <category>Free</category>
-        
-        <category>Modulation</category>
         
         
         <category>Blog</category>

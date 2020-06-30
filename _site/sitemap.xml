@@ -49,6 +49,10 @@
 <lastmod>2020-06-29T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/si14/SampleScience-Cassette-Roads/</loc>
+<lastmod>2020-06-30T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/si14/ACApply</loc>
 </url>
 <url>
@@ -71,6 +75,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/si14/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/si14/page3/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/si14/google3de97f1cf20dcf8a.html</loc>
