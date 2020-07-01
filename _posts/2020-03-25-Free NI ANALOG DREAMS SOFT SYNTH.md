@@ -6,7 +6,7 @@ categories: [Blog]
 tags: [Analogue, Dreams, NI, Nativeinstruments, Analogdreams, Softsynth, Coronavirus, Free]
 image: img/Analog Dreams.jpg
 description: "Native Instruments has announced that it is offering the Kontakt Play Series Instruments, Analog Dreams, for free until March 31st, saying:"
-featured: true
+featured: false
 hidden: false
 comments: false
 # rating: 4.5

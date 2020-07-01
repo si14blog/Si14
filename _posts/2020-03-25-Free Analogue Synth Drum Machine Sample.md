@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [Analogue, Drummachine, Producer, Labased, Freesample, 1Gb, Free]
 image: img/principle pleasure studios.jpg
 description: "LA-based producer Sharooz Raoofi shared multi-samples from his vintage synth playground in the heart of Los Angeles "
-featured: true
+featured: false
 hidden: false
 comments: false
 # rating: 4.5

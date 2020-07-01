@@ -5,9 +5,51 @@
     <description>blog</description>
     <link>http://localhost:4000/si14/</link>
     <atom:link href="http://localhost:4000/si14/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jun 2020 06:14:17 -0700</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2020 06:14:17 -0700</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2020 06:22:44 -0700</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2020 06:22:44 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Imaginando DLYM - Delay Modulator</title>
+        <description>&lt;p&gt;DLYM is a free ‘Delay Modulator’ plugin which produces flanger and chorus style effects using Imaginando’s powerful processing technology.
+Taking inspiration from DRC’s chorus effect, DLYM expands on the functionality, and makes it available for DAW applications on PC, Mac and iOS for free!
+Whether you’re looking to add just a touch of depth to your sounds or radically change them, DLYM can do both; we’ve even included over 20 presets/patches to get you started.&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;h3 id=&quot;features&quot;&gt;Features:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;2 processing modes - ‘Analog emulation’ and ‘Dimension style’.&lt;/li&gt;
+  &lt;li&gt;6 time syncable modulation waveforms - Sine, Square, Saw, Triangle, Sample &amp;amp; Hold and Filtered Sample &amp;amp; Hold.&lt;/li&gt;
+  &lt;li&gt;Adjustable stereo spread.&lt;/li&gt;
+  &lt;li&gt;Crossover/cutoff to control frequency range of the effect.&lt;/li&gt;
+  &lt;li&gt;Built-in preset/patch manager.&lt;/li&gt;
+  &lt;li&gt;Available in a variety of plugin formats: AAX, AU, AUv3, VST&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;h4 id=&quot;download-windows&quot;&gt;&lt;a href=&quot;https://www.imaginando.pt/uploads/dlym/2.0.0/DLYM_Win.zip&quot;&gt;Download Windows&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;download-mac&quot;&gt;&lt;a href=&quot;https://www.imaginando.pt/uploads/dlym/2.0.0/DLYM_Mac.zip&quot;&gt;Download Mac&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Wed, 01 Jul 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/DLYM-Delay-Modulator/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/DLYM-Delay-Modulator/</guid>
+        
+        <category>Free</category>
+        
+        <category>plugin</category>
+        
+        <category>Imaginando</category>
+        
+        <category>DLYM</category>
+        
+        <category>Delay Modulator</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
     
       <item>
         <title>SampleScience Cassette Roads</title>
@@ -469,48 +511,6 @@ Live comes with a versatile collection of instruments, sounds, kits and loops fo
         <category>Suite</category>
         
         <category>Free</category>
-        
-        
-        <category>Blog</category>
-        
-      </item>
-    
-      <item>
-        <title>APPLE LETS YOU USE LOGIC PRO X FREE FOR 90 DAYS</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;The popular music making software is now free on the App Store for 90 Days.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;click-here-to-download-logic-pro-x-for-free&quot;&gt;&lt;a href=&quot;http://updates-http.cdn-apple.com/2020/macos/061-91615-20200326-7bf76b54-681e-4abb-94f6-d9db3ec445bc/LogicProXTrial.dmg&quot;&gt;Click Here To Download Logic Pro X For Free&lt;/a&gt;&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Logic Pro is a digital audio workstation and MIDI sequencer software application for the macOS platform. It was originally created in the early 1990s as Notator Logic, or Logic, by German software developer C-Lab which later went by Emagic.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Apple has confirmed that, in light of current events, it’s offering free 90-day access to its Logic Pro X Daw and Final Cut Pro X video editing application so that everyone can make music and edit videos for Free.&lt;/p&gt;
-
-&lt;h6 id=&quot;this-is-the-first-time-a-free-trial-of-logic-pro-x-has-been-available-though-apple-say&quot;&gt;This is the first time a free trial of Logic Pro X has been available, though Apple say&lt;/h6&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;once the 90 days are up, there’ll be an ongoing 30-day free trial thereafter.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;click-here-to-download-logic-pro-x-for-free-1&quot;&gt;&lt;a href=&quot;http://updates-http.cdn-apple.com/2020/macos/061-91615-20200326-7bf76b54-681e-4abb-94f6-d9db3ec445bc/LogicProXTrial.dmg&quot;&gt;Click Here To Download Logic Pro X For Free&lt;/a&gt;&lt;/h3&gt;
-</description>
-        <pubDate>Sun, 29 Mar 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/si14/Logic-Pro-X-Free-90-Days/</link>
-        <guid isPermaLink="true">http://localhost:4000/si14/Logic-Pro-X-Free-90-Days/</guid>
-        
-        <category>CORONAVIRUS</category>
-        
-        <category>Logicprox</category>
-        
-        <category>Free</category>
-        
-        <category>90Days</category>
-        
-        <category>Apple</category>
-        
-        <category>Freetrail</category>
         
         
         <category>Blog</category>

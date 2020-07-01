@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [CORONAVIRUS, Logicprox, Free, 90Days, Apple, Freetrail]
 image: img/logicproxfreetrail.jpg
 description: "The popular music making software is now free on the App Store for 90 Days."
-featured: true
+featured: false
 hidden: false
 comments: false
 # rating: 4.5

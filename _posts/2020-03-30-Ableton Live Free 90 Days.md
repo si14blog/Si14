@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [Ableton, Live, Freetrail, Daw, 90Days, Coronavirus, Suite, Free]
 image: img/LiveSuite.jpg
 description: "Ableton LETS YOU USE Live 10 Suite FOR 90 DAYS Completely Free"
-featured: true
+featured: false
 hidden: false
 comments: false
 # rating: 4.5

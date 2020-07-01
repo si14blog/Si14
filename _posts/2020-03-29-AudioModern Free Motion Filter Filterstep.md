@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [CORONAVIRUS, Filter, Motion, Modern, Filterstep, Free, Modulation]
 image: img/filterstep.jpg
 description: "It can give you incredibly complex and nuanced results based on various filter effect settings, and almost infinite possibilities for sonic exploration and movement randomization."
-featured: true
+featured: false
 hidden: false
 comments: false
 # rating: 4.5

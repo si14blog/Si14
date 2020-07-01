@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [SONEQ, 3Band, Eq, Equalizer, Free, Vst]
 image: img/SonEQ.jpg
 description: "SONIMUS SONEQ FREE 3 BAND VINTAGE STYLE EQUALIZER PLUGIN."
-featured: true
+featured: false
 hidden: false
 comments: false
 # rating: 4.5

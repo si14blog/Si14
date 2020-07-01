@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [Module, Filter, Motion, Modern, Tal, Free, Modulation]
 image: img/talfilter2.png
 description: "TAL-FILTER-2 IS A FREE HOST SYNCED FILTER MODULE WITH DIFFERENT FILTER TYPES, PANORAMA AND VOLUME MODULATION POSSIBILITIES."
-featured: true
+featured: false
 hidden: false
 comments: false
 # rating: 4.5

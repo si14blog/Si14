@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [Oscilloscope, Vst, AU, Plugin, Free]
 image: img/smexoscope.png
 description: "s(M)exoscope AN OSCILLOSCOPE VST PLUGIN."
-featured: true
+featured: false
 hidden: false
 comments: false
 # rating: 4.5
