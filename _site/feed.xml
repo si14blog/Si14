@@ -5,9 +5,62 @@
     <description>blog</description>
     <link>http://localhost:4000/si14/</link>
     <atom:link href="http://localhost:4000/si14/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jul 2020 06:22:44 -0700</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2020 06:22:44 -0700</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2020 03:59:18 -0700</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2020 03:59:18 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Caelum Audio - Tape Cassette 2</title>
+        <description>&lt;p&gt;Caelum Audio publishes Tape Cassette 2, a new free tape saturation plugin (VST3/AU) and iOS app (AUv3) that emulates the warmth, noise, and character of old tape cassettes.&lt;/p&gt;
+
+&lt;p&gt;It’s not complete new but an updated version with sleek interface and more changes under the hood too. The Tape Cassette 2 features a brand new selectable Type 1 Cassette Impulse Response (IR), an improved saturation algorithm, wow &amp;amp; flutter engine, and implemented real sampled tape noise.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-results-are-nicely-warm-and-more-accurate-vintage-sound-in-addition-it-comes-with-two-vu-meters-to-monitor-your-audio-as-well-as-selectable-oversampling-pretty-nice-free-update&quot;&gt;The results are nicely warm and more accurate vintage sound. In addition, it comes with two VU meters to monitor your audio as well as selectable oversampling. Pretty nice free update.&lt;/h2&gt;
+
+&lt;h3 id=&quot;specifications&quot;&gt;Specifications&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Selectable Type 1 Cassette Impulse Response (IR)&lt;/li&gt;
+  &lt;li&gt;Dynamic saturation curve algorithm implementing hysteresis and including oversampling&lt;/li&gt;
+  &lt;li&gt;Wow &amp;amp; Flutter engines rebuilt to focus on smoother emulation&lt;/li&gt;
+  &lt;li&gt;Real sampled noise from a Type 1 Cassette&lt;/li&gt;
+  &lt;li&gt;Low Pass range increased down to 5kHz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;h3 id=&quot;features&quot;&gt;Features:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Saturation +/-24dB&lt;/li&gt;
+  &lt;li&gt;Low Pass Filter 5-22KHz&lt;/li&gt;
+  &lt;li&gt;Noise -80 to 0 dB&lt;/li&gt;
+  &lt;li&gt;Wow 0 – 100%&lt;/li&gt;
+  &lt;li&gt;Flutter 0 – 100%&lt;/li&gt;
+  &lt;li&gt;IR On/Off&lt;/li&gt;
+  &lt;li&gt;Oversampling (2x, 4x, 8x, 16x)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;h4 id=&quot;download-from-official-website&quot;&gt;&lt;a href=&quot;https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2&quot;&gt;Download From Official Website&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Thu, 02 Jul 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/Tape-Cassette-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/Tape-Cassette-2/</guid>
+        
+        <category>Free</category>
+        
+        <category>plugin</category>
+        
+        <category>Tape Cassette 2</category>
+        
+        <category>Caelum Audio</category>
+        
+        <category>saturation</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
     
       <item>
         <title>Imaginando DLYM - Delay Modulator</title>
@@ -455,62 +508,6 @@ Its also possible to modulate the panorama or volume of an incoming signal. This
         <category>Linux</category>
         
         <category>Raspberrypi</category>
-        
-        
-        <category>Blog</category>
-        
-      </item>
-    
-      <item>
-        <title>USE ABLETON LIVE 10 SUITE FREE For 90 DAYS</title>
-        <description>&lt;h5 id=&quot;ableton-lets-you-use-live-10-suite-for-90-days-completely-free&quot;&gt;Ableton LETS YOU USE Live 10 Suite FOR 90 DAYS Completely Free&lt;/h5&gt;
-&lt;h6 id=&quot;get-all-the-features-of-live-10-suite-free-for-90-days&quot;&gt;Get all the features of Live 10 Suite free for 90 days&lt;/h6&gt;
-
-&lt;h5 id=&quot;get-started--download-for-free-here&quot;&gt;GET STARTED &amp;amp; DOWNLOAD FOR FREE &lt;a href=&quot;https://www.ableton.com/en/trial/&quot;&gt;HERE&lt;/a&gt;&lt;/h5&gt;
-
-&lt;h4 id=&quot;what-is-ableton-live&quot;&gt;What is Ableton Live?&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ableton Live lets you easily create, produce and perform music within one intuitive interface. Live keeps everything in sync and works in real-time, so you can play and modify your musical ideas without interrupting the creative flow.
-Live comes with a versatile collection of instruments, sounds, kits and loops for creating any kind of music and provides a full complement of effects to tweak and process your sound.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The free trial period typically runs 30 days, but with the current coronavirus (COVID-19) quarantine there’s no better time to social distance yourself with your DAW (digital audio workstation).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/si14/img/Abletonlivefree.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ableton-live-10-suite-includes&quot;&gt;Ableton Live 10 Suite includes:&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ableton Live&lt;/li&gt;
-  &lt;li&gt;13 Instruments to try (including Wavetable, Operator, Sampler, Analog and more)&lt;/li&gt;
-  &lt;li&gt;56 Effects for processing audio and MIDI (including Echo, Pedal, Beat Repeat, Amp, Vocoder, Glue and lots more)&lt;/li&gt;
-  &lt;li&gt;Instant mappings so you can use Live with your keyboards or controller.&lt;/li&gt;
-  &lt;li&gt;Max for Live so you have access to a range of instruments, effects and customizations created by the Live community.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;if-youre-currently-working-in-live-9-you-can-still-sign-up-for-the-90-day-trial-and-your-library-will-not-be-overwritten-or-altered&quot;&gt;If you’re currently working in Live 9, you can still sign up for the 90 day trial and your library will not be overwritten or altered.&lt;/h5&gt;
-
-&lt;h4 id=&quot;get-started--download-for-free-here-1&quot;&gt;GET STARTED &amp;amp; DOWNLOAD FOR FREE &lt;a href=&quot;https://www.ableton.com/en/trial/&quot;&gt;HERE&lt;/a&gt;&lt;/h4&gt;
-</description>
-        <pubDate>Mon, 30 Mar 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/si14/Ableton-Live-Free-90-Days/</link>
-        <guid isPermaLink="true">http://localhost:4000/si14/Ableton-Live-Free-90-Days/</guid>
-        
-        <category>Ableton</category>
-        
-        <category>Live</category>
-        
-        <category>Freetrail</category>
-        
-        <category>Daw</category>
-        
-        <category>90Days</category>
-        
-        <category>Coronavirus</category>
-        
-        <category>Suite</category>
-        
-        <category>Free</category>
         
         
         <category>Blog</category>
