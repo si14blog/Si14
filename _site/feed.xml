@@ -5,13 +5,15 @@
     <description>blog</description>
     <link>http://localhost:4000/si14/</link>
     <atom:link href="http://localhost:4000/si14/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jul 2020 03:59:18 -0700</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2020 03:59:18 -0700</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2020 08:42:44 -0700</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2020 08:42:44 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Caelum Audio - Tape Cassette 2</title>
-        <description>&lt;p&gt;Caelum Audio publishes Tape Cassette 2, a new free tape saturation plugin (VST3/AU) and iOS app (AUv3) that emulates the warmth, noise, and character of old tape cassettes.&lt;/p&gt;
+        <description>&lt;h4 id=&quot;download-from-official-website&quot;&gt;&lt;a href=&quot;https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2&quot;&gt;Download From Official Website&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Caelum Audio publishes Tape Cassette 2, a new free tape saturation plugin (VST3/AU) and iOS app (AUv3) that emulates the warmth, noise, and character of old tape cassettes.&lt;/p&gt;
 
 &lt;p&gt;It’s not complete new but an updated version with sleek interface and more changes under the hood too. The Tape Cassette 2 features a brand new selectable Type 1 Cassette Impulse Response (IR), an improved saturation algorithm, wow &amp;amp; flutter engine, and implemented real sampled tape noise.&lt;/p&gt;
 
@@ -41,7 +43,7 @@
 
 &lt;p&gt;-&lt;/p&gt;
 
-&lt;h4 id=&quot;download-from-official-website&quot;&gt;&lt;a href=&quot;https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2&quot;&gt;Download From Official Website&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;download-from-official-website-1&quot;&gt;&lt;a href=&quot;https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2&quot;&gt;Download From Official Website&lt;/a&gt;&lt;/h4&gt;
 </description>
         <pubDate>Thu, 02 Jul 2020 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/si14/Tape-Cassette-2/</link>
@@ -56,6 +58,43 @@
         <category>Caelum Audio</category>
         
         <category>saturation</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>BOWED GLASS CLOUDS - RIOT AUDIO</title>
+        <description>&lt;h4 id=&quot;download-from-official-website&quot;&gt;&lt;a href=&quot;https://vstbuzz.com/deals/free-bowed-glass-clouds-by-riot-audio?ref=11&quot;&gt;Download From Official Website&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;“Bowed Glass Clouds” is a cinematic virtual instrument running in NI’s Kontakt. Its morphing pad engine creates rich, organic evolving textures with sounds sourced from bowed glass bowls and jars.&lt;/p&gt;
+
+&lt;p&gt;An Epic Cinematic Morphing Pad Instrument For Kontakt!
+BOWED GLASS CLOUDS is a cinematic morphing pad instrument running in Kontakt 5.8 and above. It is based on recordings of bowed resonant glass bowls and jars, as well as a few selected sound design sources including a household hoover, and an Ebow-driven resonator guitar.
+BOWED GLASS CLOUDS makes use of Kontakt’s AET Filter technology to seamlessly morph between layers of sound, both tonal and non-tonal. The instrument has a simple GUI allowing for controls for the morphing within each layer (A and B) as well as adjustment of balance between these layers.
+Other controls include distortion, BP filter, delay and reverb as well as three-band parametric EQ.
+-&lt;/p&gt;
+
+&lt;iframe width=&quot;815&quot; height=&quot;459&quot; src=&quot;https://www.youtube.com/embed/CYw3k01-77E&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;h4 id=&quot;download-from-official-website-1&quot;&gt;&lt;a href=&quot;https://vstbuzz.com/deals/free-bowed-glass-clouds-by-riot-audio?ref=11&quot;&gt;Download From Official Website&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Thu, 02 Jul 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/si14/BOWED-GLASS-CLOUDS/</link>
+        <guid isPermaLink="true">http://localhost:4000/si14/BOWED-GLASS-CLOUDS/</guid>
+        
+        <category>Free</category>
+        
+        <category>kontakt</category>
+        
+        <category>BOWED GLASS CLOUDS</category>
+        
+        <category>RIOT AUDIO</category>
+        
+        <category>virtualinstrument</category>
         
         
         <category>Blog</category>
@@ -437,77 +476,6 @@ Its also possible to modulate the panorama or volume of an incoming signal. This
         <category>GuitarAmp</category>
         
         <category>Plugin</category>
-        
-        
-        <category>Blog</category>
-        
-      </item>
-    
-      <item>
-        <title>TRACKTION CORPORATION HAS RELEASED WAVEFORM FREE</title>
-        <description>&lt;h3 id=&quot;waveform-free-is-a-professional-digital-audio-workstation-with-linux-support&quot;&gt;Waveform Free is a Professional Digital Audio Workstation with Linux Support&lt;/h3&gt;
-
-&lt;p&gt;If you’re a Raspberry Pi Guy like us and you’ve always been looking For a Good Looking and professional Digital Audio Workstation for your Single Board Or Linux Computer then you’ve no doubt heard about Tracktion T7 which is considered one of the best free digital audio workstations (DAWs) around.&lt;/p&gt;
-
-&lt;p&gt;But that’s changing. A new, free replacement for the Traction T7 DAW has been announced, and it looks mighty impressive!&lt;/p&gt;
-
-&lt;h4 id=&quot;take-your-ideas-to-the-professional-level&quot;&gt;TAKE YOUR IDEAS TO THE PROFESSIONAL LEVEL&lt;/h4&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Waveform Free is unlike any other so called Free DAW – we fully acknowledge it has more capabilities than most enthusiast producers will ever need. There are no restrictions whatsoever – unlimited track count, add popular plugins and enjoy the deeply capable feature set. Once addicted we have a perfect selection of deep dive tools available in Waveform Pro to take you to the next level.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;for-free-download-and-getting-started-click-here&quot;&gt;FOR FREE DOWNLOAD AND GETTING STARTED &lt;a href=&quot;https://www.tracktion.com/products/waveform-free&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Tracktion’s  Waveform Free is perfect for making and sharing music for anyone stuck at home, self-isolating.&lt;/p&gt;
-
-&lt;p&gt;The new DAW is suitable for all three major desktop operation systems; Windows, OSX and Linux as well as the revolutionary Raspberry Pi. It is fully compatible with the new generation of expressive instruments and also supports MPE. Waveform Free includes many of Tracktion’s recent popular innovations including; the MIDI Pattern Generator to create synchronized melodies, chord progressions, bass lines and more, the powerful 40SC Virtual Synthesizer and Micro Drum Sampler.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/si14/img/Waveform.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Most importantly, the app can load third-party VST plugins, meaning that you’ll have access to an almost unlimited amount of virtual instruments and effects. Also, the DAW comes with its own set of native effects and a couple of virtual instruments.&lt;/p&gt;
-
-&lt;h4 id=&quot;4osc&quot;&gt;4OSC&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;4OSC is a powerful yet simple to navigate subtractive synthesiser. It’s clean UI and small CPU footprint make it a great alternative to Subtractive for less complex sound design tasks. As the name suggests 4OSC offers 4 oscillators, flexible modulation, MPE compatibility and a range of onboard filters and FX.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;micro-drum-sampler&quot;&gt;MICRO DRUM SAMPLER&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Waveform’s new drum sampler is a fast and easy way to quickly create your own drum kits and start programming. Utilizing simple drag and drop for audio files, MIDI learn for rapid assignment to external controllers, and a ton of great editing features commonly used for drum production, the Drum Sampler is you new powerhouse for create beats. Intelligent integration with our popular MIDI Step Clips allow you to seamlessly move into arrangements. It’s as easy as sample, play, create.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;plugin-sandboxing&quot;&gt;PLUGIN SANDBOXING&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;3rd party plugins are the weak link for any digital audio workstation. Waveform Free addresses this by implementing plugin sandboxing. Once activated your work environment is protected by keeping plugin crashes contained. Instead of the host closing, the plugin is simply deactivated.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;for-tutorial-videos-click-here&quot;&gt;For Tutorial Videos &lt;a href=&quot;https://news.armarketing.co.uk/C5209A40B0E1546DA65E93E99D347FFEC94FD3F132DDBBE9D377153C1D9B3301/59CEAF3B2AD52C18C76862A304D37185/LE35?ii=true&quot;&gt;Click Here&lt;/a&gt;&lt;/h4&gt;
-
-&lt;h3 id=&quot;for-free-download-and-getting-started-click-here-1&quot;&gt;FOR FREE DOWNLOAD AND GETTING STARTED &lt;a href=&quot;https://www.tracktion.com/products/waveform-free&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h3&gt;
-</description>
-        <pubDate>Wed, 01 Apr 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/si14/Waveform-Free/</link>
-        <guid isPermaLink="true">http://localhost:4000/si14/Waveform-Free/</guid>
-        
-        <category>Waveform</category>
-        
-        <category>Free</category>
-        
-        <category>Tracktion</category>
-        
-        <category>Daw</category>
-        
-        <category>90Days</category>
-        
-        <category>Coronavirus</category>
-        
-        <category>Win</category>
-        
-        <category>Mac</category>
-        
-        <category>Linux</category>
-        
-        <category>Raspberrypi</category>
         
         
         <category>Blog</category>
