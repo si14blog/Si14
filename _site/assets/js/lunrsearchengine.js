@@ -53,7 +53,7 @@ var documents = [{
     "id": 10,
     "url": "http://localhost:4000/si14/OB-Xd/",
     "title": "discodsp - OB-Xd",
-    "body": "2020/07/30 - Download From Official Website: Download From Official Website: Download From Official Website: Download From Official Website: OB-Xd is based on the Oberheim OB-X. It attempts to recreate its sound and behavior, but as the original was very limited in some important ways a number of things were added or altered to the original design. OB-Xd was designed to sound as good and as rich as the original. It implements micro random detuning which is a big part of that sound. Download From Official Website: Download From Official Website: Download From Official Website: Download From Official Website: "
+    "body": "2020/07/30 - Download From Official Website: Download From Official Website: Download From Official Website: Download From Official Website:     View this post on Instagram      #تنظیم #پلاگین #اف_ال_استودیو #میکس_مسترینگ #سنتی_سایزر #رایگان #موزیک A post shared by وبلاگ Si14 (@si14. b) on Aug 30, 2020 at 10:15am PDT OB-Xd is based on the Oberheim OB-X. It attempts to recreate its sound and behavior, but as the original was very limited in some important ways a number of things were added or altered to the original design. OB-Xd was designed to sound as good and as rich as the original. It implements micro random detuning which is a big part of that sound. Download From Official Website: Download From Official Website: Download From Official Website: Download From Official Website: "
     }, {
     "id": 11,
     "url": "http://localhost:4000/si14/TAL-Dub-3/",
